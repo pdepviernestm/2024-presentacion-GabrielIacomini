@@ -1,14 +1,25 @@
 # Gabriel Iacomini
 
-- Estudiante de **Ingenieria en Sistemas de Informacion**.
-- Algunos de mis **hobbies** son:
-    - Andar en bici y hacer mountainbike.
-    - Manejar cuatriciclos y UTVs.
-- A lo largo de toda mi vida estuve rodeado de la tecnologia, principalmente por mi mamá que trabaja en sistemas.
-- Me interesé mucho en las criptomonedas y la **blockchain**.
-- Soy hincha de Ferro, si, por decisión.
-- Arquero de Ferro Futsal.
-<image src="https://github.com/pdepviernestm/2024-presentacion-GabrielIacomini/assets/164112858/8b93d3e3-3d94-4c9e-abcb-c87ca707bc6b" alt="Este soy yo con la armadura puesta" width=400px height=400px>
+### Acerca de mí ###
+Buenas! me llamo Gabriel, tengo 19 años y actualmente vivo en el barrio de Caballito. Me egresé del colegio Pio IX y ahí es donde forme mi pasión por la tecnología y estar constante contacto con gente. 
+Actualmente mi principal actividad, ademas de estudiar Ingenieria en Sistemas de Informacion, es ser arquero de futsal en el **Club Ferro Carril Oeste**. 
+<p align= "center">
+    <image src="https://github.com/pdepviernestm/2024-presentacion-GabrielIacomini/assets/164112858/8b93d3e3-3d94-4c9e-abcb-c87ca707bc6b" alt="Este soy yo con la armadura puesta" width=70% height=auto>
+</p>
+
+
+### Mis pasiones ###
+
+- Andar en bici y hacer mountainbike. 🚴
+- Manejar cuatriciclos y UTVs. 🏍️
+- Criptomonedas y la **blockchain**. 📈
+- Inversiones 🪙
+- Hacer Ski ⛷️
+- Disfrutar con amigos y familia
+
+
+
+
 
 
 
