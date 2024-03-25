@@ -13,7 +13,7 @@ Actualmente mi principal actividad, ademas de estudiar Ingenieria en Sistemas de
 - Andar en bici y hacer mountainbike. 🚴
 - Manejar cuatriciclos y UTVs. 🏍️
 - Criptomonedas y la **blockchain**. 📈
-- Inversiones 🪙
+- Inversiones 💰
 - Hacer Ski ⛷️
 - Disfrutar con amigos y familia
 
